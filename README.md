@@ -6,6 +6,7 @@
 
 <br>🚀 Working on: Web3 blockchain, AI/ML, Python, and web development projects.<br><br>🤝 Collaborating on: Open-source projects in blockchain, AI/ML, smart contracts, Python, and web dev.<br><br>🧠 Need help with: Advanced blockchain integrations, AI models, and Python automation.<br><br>🌱 Learning: Machine learning, smart contracts, Python frameworks, and modern web development.<br><br>💬 Ask me about: Blockchain, AI/ML, Python projects, and full-stack web development.<br><br>⚡ Fun fact: I love building innovative projects that combine AI and blockchain to shape the future of tech!
 
+https://v0-modern-portfolio-ivory.vercel.app/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhi.techex) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-raj-patel) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/abhishek_codex) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhisinghrx@gmail.com) 
