@@ -1,7 +1,7 @@
-![Alt Text](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Alt Text](https://camo.githubusercontent.com/129463490889ef4c7bcdfaeb4afa3f6e93b223ead98b5021b175085440da90e2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966)
 
 
-#  Hello There  👋, I'm Abhishek Raj Patel 
+#  Hello There  👋, I'm Abhishek Raj Patel  
 ***A passionate AI/ML software developer and Web3.0 blockchain enthusiast from India, driven by a love for coding and innovation.***
 
 <br>🚀 Working on: Web3 blockchain, AI/ML, Python, and web development projects.<br><br>🤝 Collaborating on: Open-source projects in blockchain, AI/ML, smart contracts, Python, and web dev.<br><br>🧠 Need help with: Advanced blockchain integrations, AI models, and Python automation.<br><br>🌱 Learning: Machine learning, smart contracts, Python frameworks, and modern web development.<br><br>💬 Ask me about: Blockchain, AI/ML, Python projects, and full-stack web development.<br><br>⚡ Fun fact: I love building innovative projects that combine AI and blockchain to shape the future of tech!
