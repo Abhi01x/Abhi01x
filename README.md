@@ -5,7 +5,7 @@
 ***A passionate AI/ML software developer and Web3.0 blockchain enthusiast from India, driven by a love for coding and innovation.***
 
 <br>🚀 Working on: Web3 blockchain, AI/ML, Python, and web development projects.<br><br>🤝 Collaborating on: Open-source projects in blockchain, AI/ML, smart contracts, Python, and web dev.<br><br>🧠 Need help with: Advanced blockchain integrations, AI models, and Python automation.<br><br>🌱 Learning: Machine learning, smart contracts, Python frameworks, and modern web development.<br><br>💬 Ask me about: Blockchain, AI/ML, Python projects, and full-stack web development.<br><br>⚡ Fun fact: I love building innovative projects that combine AI and blockchain to shape the future of tech!
-
+ 
 https://v0-modern-portfolio-ivory.vercel.app/
 
 ## 🌐 Socials:
